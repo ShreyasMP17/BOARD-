@@ -21,7 +21,7 @@ const Login = () => {
             body: JSON.stringify(data)
         })
         alert("Login Successfully")
-        navigate("/dashboard")
+        navigate("/board-/dashboard")
 
     }
 
